@@ -1,10 +1,11 @@
 --- 
 layout: post 
 toc: true 
-title: "Rails Change Default Controller"
+title: "Change Controller Default Layout"
 tags: rails
 meta: rails
 excerpt_separator: <!--summary-->
+hero_id: fNAJ3waDcDI
 ---
 
 [Rails guide docs](Specifying layouts for controllers)
